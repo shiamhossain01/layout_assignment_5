@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 50px;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+.menu{
+    height: 50px;
+    background-color: rgb(189, 191, 86);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+
+}
+.blog{
+    height: 500px;
+    display: flex;
+    /* border-bottom: .5vh solid white; */
+
+}
+.left{
+    width: 50%;
+    background-color: rgb(64, 155, 154);
+    text-align: center;
+    color: white;
+    border-right: .5vh solid white;
+
+}
+
+.top{
+    height: 80%;
+    background-color: rgb(31, 31, 75);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+.buttom{
+    height: 19%;
+    background-color: rgb(60, 150, 25);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+
+
+.right{
+    width: 50%;
+    background-color: rgb(40, 40, 250);
+    text-align: center;
+    color: white;
+
+}
+.top1{
+    height: 30%;
+    background-color: rgb(102, 126, 18);
+    text-align: center;
+    color: white;
+    display: flex;
+    border-bottom: .5vh solid white;
+}
+
+.left1{
+    width: 50%;
+    background-color: rgb(103, 211, 52);
+    text-align: center;
+    color: white;
+    border-right: .5vh solid white;
+}
+.right1{
+    width: 50%;
+    background-color: rgb(33, 101, 165);
+    text-align: center;
+    color: white;
+
+}
+
+
+
+.buttom1{
+    height: 69%;
+    background-color: rgb(185, 68, 177);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+
+footer{
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
